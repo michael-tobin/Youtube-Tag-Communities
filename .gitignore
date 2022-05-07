@@ -3,6 +3,16 @@
 
 POC_do not track.ipynb
 
-Data_Out/
-
 youtube_categories.ipynb
+
+Data_Out/edges.pkl
+
+Data_Out/graph.nwb
+
+Data_Out/edges.csv
+
+Data_Out/nodes.pkl
+
+Data_Out/Communities/
+
+nodes.nwb
