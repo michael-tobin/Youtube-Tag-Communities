@@ -4,7 +4,7 @@ This project was undertaken as a part of GEOG 780, *Knowledge Analytics*,  at Sa
 The goal was to build a co-occurence network of tags from YouTube videos across multiple channels and categories, then visualize that network. 
 
 The plan was to scrape the tags from every video from each of the top 100 channels in each of the 18 categories. Not all videos use tags, and some videos use many tags. There is no limit to the number of tags (separated by a ,), but there is a 500 character limit per video.
-The 32 categories are as follows:
+The 18 categories are as follows:
 
 1. Autos & Vehicles
 2. Film & Animation
